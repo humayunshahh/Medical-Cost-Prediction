@@ -1,24 +1,24 @@
 # Medical-Insurance-Cost-Predictor
-
-This project is a machine learning-based solution to predict medical insurance costs using a **Random Forest Regressor**. The model is trained on a dataset containing various features such as age, BMI, smoking status, and more to predict the insurance cost.
+This is a medical insurance cost predictor machine learning project using Random forest regressor
 
 ![Type](https://img.shields.io/badge/Machine-Learning-red.svg)
 ![IDE](https://img.shields.io/badge/IDE-JupyterNotebook-orange.svg)
 ![Type](https://img.shields.io/badge/Type-Supervised-yellow.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-cherryred.svg)
 
----
 
-## Workflow of the Project
+<h1 align='center'> WORKFLOW OF PROJECT </h1>
 
-```mermaid
-flowchart TD
-A[Step 0 : Collect Data] --> B[Step 1 : Import Libraries/Modules in the workspace]
-B[Step 1 : Import Libraries/Modules in the workspace] --> C[Step 2 : Import the collected data into the workspace]
-C[Step 2 : Import the collected data into the workspace] --> D[Step 3 : Data Preprocessing]
-D[Step 3 : Data Preprocessing] --> E[Step 4 : Training a ML model using Random Forest Regression Algorithm]
-E[Step 4 : Training a ML model using Random Forest Regression Algorithm] --> F[Step 5 : Deploy the ML model as a Web App]
 
+    ```mermaid
+    flowchart TD
+    A[Step 0 : Collect Data] --> B[Step 1 : Import Libraries/Modules in the workspace]
+    B[Step 1 : Import Libraries/Modules in the workspace] --> C[Step 2 : Import the collected data into the workspace]
+    C[Step 2 : Import the collected data into the workspace] --> D[Step 3 : Data Preprocessing]
+    D[Step 3 : Data Preprocessing] --> E[Step 4 : Training a ML model using Random Forest Regression Algorithm]
+    E[Step 4 : Training a ML model using Random Forest Regression Algorithm] --> F[Step 5 : Deploy the ML model as a Web App]
+
+    ```
 ---
 
 ## Features
@@ -122,6 +122,8 @@ Developed and maintained by **Shah Humayun Bashir**. Feel free to reach out for 
 
 
     
+
+
 
 
 
