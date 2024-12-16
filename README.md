@@ -10,13 +10,13 @@ This is a medical insurance cost predictor machine learning project using Random
 <h1 align='center'> WORKFLOW OF PROJECT </h1>
 
 
-    ```mermaid
-    flowchart TD
-    A[Step 0 : Collect Data] --> B[Step 1 : Import Libraries/Modules in the workspace]
-    B[Step 1 : Import Libraries/Modules in the workspace] --> C[Step 2 : Import the collected data into the workspace]
-    C[Step 2 : Import the collected data into the workspace] --> D[Step 3 : Data Preprocessing]
-    D[Step 3 : Data Preprocessing] --> E[Step 4 : Training a ML model using Random Forest Regression Algorithm]
-    E[Step 4 : Training a ML model using Random Forest Regression Algorithm] --> F[Step 5 : Deploy the ML model as a Web App]
+```mermaid
+flowchart TD
+A[Step 0 : Collect Data] --> B[Step 1 : Import Libraries/Modules in the workspace]
+B[Step 1 : Import Libraries/Modules in the workspace] --> C[Step 2 : Import the collected data into the workspace]
+C[Step 2 : Import the collected data into the workspace] --> D[Step 3 : Data Preprocessing]
+D[Step 3 : Data Preprocessing] --> E[Step 4 : Training a ML model using Random Forest Regression Algorithm]
+E[Step 4 : Training a ML model using Random Forest Regression Algorithm] --> F[Step 5 : Deploy the ML model as a Web App]
 
-    ```
+```
 
