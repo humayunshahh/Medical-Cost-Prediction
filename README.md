@@ -32,7 +32,7 @@ This is a medical insurance cost predictor machine learning project using Random
 
 ## Requirements
 
-### Install the required Python packages using the following command:
+**Install the required Python packages using the following command**:
     ```bash
     pip install -r requirements.txt
 
@@ -57,21 +57,21 @@ This is a medical insurance cost predictor machine learning project using Random
 
 ## Setup and Usage
 
-### 1. Clone the Repository
+1. **Clone the Repository**:
     ```bash
     git clone https://github.com/your-username/Medical-Insurance-Cost-Predictor.git
     cd Medical-Insurance-Cost-Predictor
 
-### 2. Install Dependencies
+2. **Install Dependencies**:
     ```bash
     pip install -r requirements.txt
 
-### 3. Train the Model (Optional)
+3. **Train the Model (Optional)**:
 - Run the Jupyter Notebook to train the model:
     ```bash
     jupyter notebook Medical_Insurance_Cost_Prediction.ipynb
 
-### 4. Run the Web Application
+4. **Run the Web Application**:
 - Launch the Streamlit app to make predictions:
     ```bash
     streamlit run Medical_Insurance_Cost_Prediction_Web_App.py
