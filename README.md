@@ -32,7 +32,7 @@ This is a medical insurance cost predictor machine learning project using Random
 
 ## Requirements
 
-**Install the required Python packages using the following command**:
+1. **Install the required Python packages using the following command**:
     ```bash
     pip install -r requirements.txt
 
