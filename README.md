@@ -6,10 +6,6 @@ This is a medical insurance cost predictor machine learning project using Random
 ![Type](https://img.shields.io/badge/Type-Supervised-yellow.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-cherryred.svg)
 
-Link to the web app : 
-
-<a href="https://dvamsidhar200-medical-insurance-cost-prediction-web-app-f1aou7.streamlit.app/">
-    <img src="https://img.shields.io/badge/Medical Insurance Cost Predictor-0A0A0A?style=plastic&logo=HERE&logoColor=white" height=20></a>
 
 <h1 align='center'> WORKFLOW OF PROJECT </h1>
 
